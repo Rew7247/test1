@@ -1,0 +1,59 @@
+{
+	"storyName": "Port By ThePotra, Chart 6K By Felogo",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ddlc-5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"festivalweek",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"crucify (yuri mix)",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"beathoven (natsuki mix)",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		],
+		[
+			"it's complicated (sayori mix)",
+			"sayori",
+			[
+				149,
+				224,
+				250
+			]
+		],
+		[
+			"glitcher (monika mix)",
+			"monika",
+			[
+				140,
+				212,
+				81
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Festival",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "Port By ThePotra, Chart 6K By Felogo",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ddlc-1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"my sweets",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		],
+		[
+			"baka",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		]
+	],
+	"weekCharacters": [
+		"natsukiweek",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Natsuki Week"
+}

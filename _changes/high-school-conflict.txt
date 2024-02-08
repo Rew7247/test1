@@ -1,0 +1,7 @@
+mods/data/high-school-conflict/high-school-conflict-hard.json
+mods/stages/Stage-Pixel.json
+mods/stages/Stage-Pixel.lua
+mods/songs/high-school-conflict/Voices.ogg
+mods/songs/high-school-conflict/voices.ogg
+mods/songs/high-school-conflict/Inst.ogg
+mods/songs/high-school-conflict/inst.ogg

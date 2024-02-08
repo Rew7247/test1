@@ -1,0 +1,8 @@
+mods/data/my-confession/my-confession-hard.json
+mods/data/my-confession/Stage.lua
+mods/stages/dokiclubroom.json
+mods/stages/dokiclubroom.lua
+mods/songs/my-confession/Voices.ogg
+mods/songs/my-confession/voices.ogg
+mods/songs/my-confession/Inst.ogg
+mods/songs/my-confession/inst.ogg

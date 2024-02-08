@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Big Monika Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Big Monika Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Big Monika Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Big Monika Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Big Monika Sing Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "DDLC/Doki_BigMonikaDress_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bigmonika",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		130,
+		109
+	],
+	"camera_position": [
+		-170,
+		40
+	],
+	"sing_duration": 6,
+	"scale": 0.9
+}

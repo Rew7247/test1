@@ -1,0 +1,7 @@
+mods/data/joyride/joyride-hard.json
+mods/stages/musicroom.json
+mods/stages/musicroom.lua
+mods/songs/joyride/Voices.ogg
+mods/songs/joyride/voices.ogg
+mods/songs/joyride/Inst.ogg
+mods/songs/joyride/inst.ogg

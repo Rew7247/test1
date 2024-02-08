@@ -1,0 +1,8 @@
+mods/data/poems-n-thorns/poems-n-thorns-hard.json
+mods/data/poems-n-thorns/Stage.lua
+mods/stages/Stage-Pixel.json
+mods/stages/Stage-Pixel.lua
+mods/songs/poems-n-thorns/Voices.ogg
+mods/songs/poems-n-thorns/voices.ogg
+mods/songs/poems-n-thorns/Inst.ogg
+mods/songs/poems-n-thorns/inst.ogg

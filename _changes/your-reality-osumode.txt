@@ -1,0 +1,7 @@
+mods/data/your-reality/your-reality-hard.json
+mods/stages/Stage-Pixel.json
+mods/stages/Stage-Pixel.lua
+mods/songs/your-reality/Voices.ogg
+mods/songs/your-reality/voices.ogg
+mods/songs/your-reality/Inst.ogg
+mods/songs/your-reality/inst.ogg

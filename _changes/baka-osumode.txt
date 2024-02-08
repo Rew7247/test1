@@ -1,0 +1,8 @@
+mods/data/baka/baka-hard.json
+mods/data/baka/Stage.lua
+mods/stages/dokiclubroom.json
+mods/stages/dokiclubroom.lua
+mods/songs/baka/Voices.ogg
+mods/songs/baka/voices.ogg
+mods/songs/baka/Inst.ogg
+mods/songs/baka/inst.ogg

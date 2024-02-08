@@ -1,0 +1,41 @@
+{
+	"storyName": "Port By ThePotra, Chart 6K By Felogo",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ddlc-1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"deep breaths",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"obsession",
+			"yuri-crazy",
+			[
+				158,
+				114,
+				210
+			]
+		]
+	],
+	"weekCharacters": [
+		"yuriweek",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Yuri Week"
+}

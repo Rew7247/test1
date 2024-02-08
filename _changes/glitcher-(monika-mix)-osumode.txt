@@ -1,0 +1,8 @@
+mods/data/glitcher-(monika-mix)/glitcher-(monika-mix)-hard.json
+mods/data/glitcher-(monika-mix)/Stage.lua
+mods/stages/dokifestival.json
+mods/stages/dokifestival.lua
+mods/songs/glitcher-(monika-mix)/Voices.ogg
+mods/songs/glitcher-(monika-mix)/voices.ogg
+mods/songs/glitcher-(monika-mix)/Inst.ogg
+mods/songs/glitcher-(monika-mix)/inst.ogg

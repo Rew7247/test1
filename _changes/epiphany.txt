@@ -1,0 +1,10 @@
+mods/data/epiphany/epiphany-lyrics.json
+mods/data/epiphany/epiphany-regular.json
+mods/data/epiphany/epiphany.json
+mods/data/epiphany/Lyrics.lua
+mods/stages/clubroomevil.json
+mods/stages/clubroomevil.lua
+mods/songs/epiphany/Voices.ogg
+mods/songs/epiphany/voices.ogg
+mods/songs/epiphany/Inst.ogg
+mods/songs/epiphany/inst.ogg

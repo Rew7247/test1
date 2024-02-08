@@ -1,0 +1,9 @@
+mods/data/our-harmony/natsuki.lua
+mods/data/our-harmony/our-harmony-hard.json
+mods/data/our-harmony/yuri.lua
+mods/stages/musicroom.json
+mods/stages/musicroom.lua
+mods/songs/our-harmony/Voices.ogg
+mods/songs/our-harmony/voices.ogg
+mods/songs/our-harmony/Inst.ogg
+mods/songs/our-harmony/inst.ogg

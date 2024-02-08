@@ -1,0 +1,59 @@
+{
+	"storyName": "Port By ThePotra, Chart 6K By Felogo",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ddlc-0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"prologueweek",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"high school conflict",
+			"monika-pixelnew",
+			[
+				255,
+				184,
+				227
+			]
+		],
+		[
+			"bara no yume",
+			"duet",
+			[
+				255,
+				155,
+				0
+			]
+		],
+		[
+			"your demise",
+			"monika-angrynew",
+			[
+				201,
+				206,
+				255
+			]
+		],
+		[
+			"your reality",
+			"monika-pixelnew",
+			[
+				255,
+				184,
+				227
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Prologue Week",
+	"hiddenUntilUnlocked": false
+}

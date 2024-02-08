@@ -1,0 +1,59 @@
+{
+	"storyName": "Port By ThePotra, Chart 6K By Felogo",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "DDLC-6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"encoreweek",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hot air balloon",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		],
+		[
+			"shrinking violet",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"joyride",
+			"sayori",
+			[
+				149,
+				224,
+				250
+			]
+		],
+		[
+			"our harmony",
+			"our-harmony",
+			[
+				149,
+				224,
+				250
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Encore Week",
+	"hiddenUntilUnlocked": false
+}

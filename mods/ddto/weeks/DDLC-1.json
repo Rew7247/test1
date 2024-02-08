@@ -1,0 +1,41 @@
+{
+	"storyName": "Port By ThePotra, Chart 6K By Felogo",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "DDLC-1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sayoriweek",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rain clouds",
+			"sayori",
+			[
+				149,
+				249,
+				250
+			]
+		],
+		[
+			"my confession",
+			"sayori",
+			[
+				149,
+				249,
+				250
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sayori Week",
+	"hiddenUntilUnlocked": false
+}

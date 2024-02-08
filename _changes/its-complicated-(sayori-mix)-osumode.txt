@@ -1,0 +1,8 @@
+mods/data/its-complicated-(sayori-mix)/its-complicated-(sayori-mix)-hard.json
+mods/data/its-complicated-(sayori-mix)/Stage.lua
+mods/stages/dokifestival.json
+mods/stages/dokifestival.lua
+mods/songs/its-complicated-(sayori-mix)/Voices.ogg
+mods/songs/its-complicated-(sayori-mix)/voices.ogg
+mods/songs/its-complicated-(sayori-mix)/Inst.ogg
+mods/songs/its-complicated-(sayori-mix)/inst.ogg

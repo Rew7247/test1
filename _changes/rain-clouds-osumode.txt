@@ -1,0 +1,8 @@
+mods/data/rain-clouds/rain-clouds-hard.json
+mods/data/rain-clouds/Stage.lua
+mods/stages/dokiclubroom.json
+mods/stages/dokiclubroom.lua
+mods/songs/rain-clouds/Voices.ogg
+mods/songs/rain-clouds/voices.ogg
+mods/songs/rain-clouds/Inst.ogg
+mods/songs/rain-clouds/inst.ogg

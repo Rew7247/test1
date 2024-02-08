@@ -1,0 +1,7 @@
+mods/data/hot-air-balloon/hot-air-balloon-hard.json
+mods/stages/musicroom.json
+mods/stages/musicroom.lua
+mods/songs/hot-air-balloon/Voices.ogg
+mods/songs/hot-air-balloon/voices.ogg
+mods/songs/hot-air-balloon/Inst.ogg
+mods/songs/hot-air-balloon/inst.ogg

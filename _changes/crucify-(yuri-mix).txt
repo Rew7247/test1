@@ -1,0 +1,8 @@
+mods/data/crucify-(yuri-mix)/crucify-(yuri-mix)-hard.json
+mods/data/crucify-(yuri-mix)/Stage.lua
+mods/stages/dokifestival.json
+mods/stages/dokifestival.lua
+mods/songs/crucify-(yuri-mix)/Voices.ogg
+mods/songs/crucify-(yuri-mix)/voices.ogg
+mods/songs/crucify-(yuri-mix)/Inst.ogg
+mods/songs/crucify-(yuri-mix)/inst.ogg

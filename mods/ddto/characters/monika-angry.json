@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Monika_Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Monika_singUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Monika_singRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Monika_singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Monika_singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Monika_singUPALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Monika_singRIGHTALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Monika_singLEFTALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Monika_singDOWNALT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "DDLC/Monika_Finale_New",
+	"position": [
+		95,
+		351
+	],
+	"healthicon": "monika-angrynew",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		206,
+		255
+	],
+	"camera_position": [
+		-140,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

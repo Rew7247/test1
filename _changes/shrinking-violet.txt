@@ -1,0 +1,7 @@
+mods/data/shrinking-violet/shrinking-violet-hard.json
+mods/stages/musicroom.json
+mods/stages/musicroom.lua
+mods/songs/shrinking-violet/Voices.ogg
+mods/songs/shrinking-violet/voices.ogg
+mods/songs/shrinking-violet/Inst.ogg
+mods/songs/shrinking-violet/inst.ogg
